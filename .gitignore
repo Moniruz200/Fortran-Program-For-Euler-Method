@@ -1,0 +1,14 @@
+# Fortran compilation artifacts
+*.o
+*.mod
+*.d
+
+# Temporary files
+*~
+*.tmp
+*.temp
+# Editor backups
+*~
+*.bak
+# Log files
+*.log
